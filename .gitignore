@@ -1,0 +1,5 @@
+venv/
+myenv/
+Wav2Lip/
+Wav2Lip/venv_env
+__pycache__/
